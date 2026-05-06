@@ -3,8 +3,8 @@
 ```
   ██╗  ██╗ █████╗ ██╗      ██╗    ████████╗███████╗██████╗
   ██║ ██╔╝██╔══██╗██║      ██║    ╚══██╔══╝██╔════╝██╔══██╗
-  █████╔╝ ███████║██║      ██║       ██║   █████╗  ██████╔╝
-  ██╔═██╗ ██╔══██║██║      ██║       ██║   ██╔══╝  ██╔══██╗
+  █████╔╝ ███████║██║      ██║       ██║    █████╗  ██████╔╝
+  ██╔═██╗ ██╔══██║██║      ██║       ██║    ██╔══╝  ██╔══██╗
   ██║  ██╗██║  ██║███████╗ ██║       ██║   ███████╗██║  ██║
   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝
               TERMINAL v1.0.0 — Python-Powered Hacker Terminal
@@ -14,37 +14,37 @@
 
 ---
 
-## ⚡ What's New in v1.0 (vs v2)
+## ⚡ What's New in v1.0
 
-| Feature                    | v2   | v1.0 |
-|----------------------------|------|------|
-| Themes                     | ❌   | ✅ 5 themes (Kali/Dracula/Matrix/Ocean/Blood) |
-| AI Assistant (Claude)      | ❌   | ✅ Full cybersec Q&A + code gen |
-| TCP Port Scanner           | ❌   | ✅ Multi-threaded, with service detection |
-| Ping Sweep                 | ❌   | ✅ CIDR subnet sweep |
-| DNS Lookup                 | ❌   | ✅ All record types |
-| Banner Grab                | ❌   | ✅ TCP service banner |
-| HTTP Header Inspector      | ❌   | ✅ Full response headers |
-| Hash Engine                | ❌   | ✅ MD5/SHA1/SHA256/SHA512/BLAKE2/all |
-| Encode/Decode              | ❌   | ✅ Base64/URL/Hex/Binary/HTML/Morse |
-| Caesar Cipher              | ❌   | ✅ + brute force mode |
-| XOR Encryption             | ❌   | ✅ |
-| Password Generator         | ❌   | ✅ Cryptographically secure |
-| Password Strength Checker  | ❌   | ✅ 9-point analysis |
-| Persistent Aliases         | ❌   | ✅ Saved to disk |
-| Bookmarks                  | ❌   | ✅ Named directory shortcuts |
-| Notes                      | ❌   | ✅ Timestamped sticky notes |
-| TODO Manager               | ❌   | ✅ With priorities |
-| Live System Monitor        | ❌   | ✅ Real-time CPU/RAM/disk |
-| Matrix Animation           | ❌   | ✅ Full terminal matrix rain |
-| Tree View                  | ❌   | ✅ Colored directory tree |
-| Calculator                 | ❌   | ✅ Safe Python math eval |
-| Weather                    | ❌   | ✅ ASCII weather (wttr.in) |
-| Git-Aware Prompt           | ❌   | ✅ Branch + dirty + ahead/behind |
-| Time in Prompt             | ❌   | ✅ Optional |
-| Preferences System         | ❌   | ✅ Persistent JSON prefs |
-| Session Persistence        | ❌   | ✅ ~/.kali_terminal/ |
-| Boot Animation             | ❌   | ✅ Fake boot sequence |
+| Feature                    | v1.0 |
+|----------------------------|------|
+| Themes                     | ✅ 5 themes (Kali/Dracula/Matrix/Ocean/Blood) |
+| AI Assistant (Claude)      | ✅ Full cybersec Q&A + code gen |
+| TCP Port Scanner           | ✅ Multi-threaded, with service detection |
+| Ping Sweep                 | ✅ CIDR subnet sweep |
+| DNS Lookup                 | ✅ All record types |
+| Banner Grab                | ✅ TCP service banner |
+| HTTP Header Inspector      | ✅ Full response headers |
+| Hash Engine                | ✅ MD5/SHA1/SHA256/SHA512/BLAKE2/all |
+| Encode/Decode              | ✅ Base64/URL/Hex/Binary/HTML/Morse |
+| Caesar Cipher              | ✅ + brute force mode |
+| XOR Encryption             | ✅ |
+| Password Generator         | ✅ Cryptographically secure |
+| Password Strength Checker  | ✅ 9-point analysis |
+| Persistent Aliases         | ✅ Saved to disk |
+| Bookmarks                  | ✅ Named directory shortcuts |
+| Notes                      | ✅ Timestamped sticky notes |
+| TODO Manager               | ✅ With priorities |
+| Live System Monitor        | ✅ Real-time CPU/RAM/disk |
+| Matrix Animation           | ✅ Full terminal matrix rain |
+| Tree View                  | ✅ Colored directory tree |
+| Calculator                 | ✅ Safe Python math eval |
+| Weather                    | ✅ ASCII weather (wttr.in) |
+| Git-Aware Prompt           | ✅ Branch + dirty + ahead/behind |
+| Time in Prompt             | ✅ Optional |
+| Preferences System         | ✅ Persistent JSON prefs |
+| Session Persistence        | ✅ ~/.kali_terminal/ |
+| Boot Animation             | ✅ Fake boot sequence |
 
 ---
 
