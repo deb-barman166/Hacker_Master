@@ -1,0 +1,31 @@
+# Kali Terminal v2 - Masterpiece Edition
+# Professional Kali Linux Terminal Simulator
+
+# Core dependencies
+prompt-toolkit>=3.0.41
+pygments>=2.17.0
+
+# HTTP requests for web/network tools
+requests>=2.31.0
+urllib3>=2.1.0
+
+# JSON/YAML configuration
+pyyaml>=6.0.1
+
+# Cryptography
+cryptography>=41.0.7
+
+# Network utilities
+ipaddress>=1.0.23
+
+# Date/time handling
+python-dateutil>=2.8.2
+
+# Optional: Rich terminal output
+rich>=13.7.0
+
+# Optional: Better HTTP client
+httpx>=0.26.0
+
+# Optional: Plugin system
+importlib-metadata>=7.0.0
