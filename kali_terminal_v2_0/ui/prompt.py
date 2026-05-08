@@ -100,7 +100,7 @@ def build_prompt(cwd: str, last_exit: int = 0, config=None, ai_enabled: bool = F
         venv_str = " ({})".format(venv_name) if venv_name else ""
         ai_str = " [AI]" if ai_enabled else ""
 
-        prompt = "\n{ai}{exit} {green}{user}{red}@{green}{hostname}{white}:{green}{path}{yellow}{git}{magenta}{venv}{exit_code}\n{white}${reset} ".format(
+        prompt = "\n{ai}{exit_code} {green}{user}{red}@{green}{hostname}{white}:{green}{path}{yellow}{git}{magenta}{venv}{exit_code}\n{white}${reset} ".format(
             user=user,
             hostname=hostname,
             path=path,
